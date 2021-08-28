@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Jessica Moraes 👋
  
 
- - 🌱 Estaudando React JS
+ - 🌱 Estudando React JS
  - 😄 Pronomes: ela/dela
 
  <div>
