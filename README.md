@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Jessica Moraes 👋
  
 
- - 🌱 Estudando React JS
- - 😄 Pronomes: ela/dela
+ 🌱Absorvida pelo mundo back-end, atualmente estudando C# e se arriscando com Python!
+ 🤓Conhecimento em HTML, CSS e JavaScript
 
  <div>
   <a href="https://github.com/JessicaMoraesSantos">
