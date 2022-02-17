@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Jessica Moraes 👋
  
 
- 🌱Participando do Bootcamp Generation FullStack Java e do Programa Start (Porto Seguro - Digital House)
- 🤓Conhecimento em HTML, CSS, JavaScript e Node.js
+ 🌱Participando do Bootcamp Generation FullStack Java e do Programa Start (Porto Seguro - Digital House)<br>
+ 🤓Conhecimento em HTML, CSS, JavaScript e Node.js<br>
  🎯Estudando Java
 
  <div>
