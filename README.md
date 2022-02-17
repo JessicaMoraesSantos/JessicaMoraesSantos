@@ -1,8 +1,9 @@
 ### Olá! Eu sou a Jessica Moraes 👋
  
 
- 🌱Absorvida pelo mundo back-end, atualmente estudando C# e se arriscando com Python!
- 🤓Conhecimento em HTML, CSS e JavaScript
+ 🌱Participando do Bootcamp Generation FullStack Java e do Programa Start (Porto Seguro - Digital House)
+ 🤓Conhecimento em HTML, CSS, JavaScript e Node.js
+ 🎯Estudando Java
 
  <div>
   <a href="https://github.com/JessicaMoraesSantos">
