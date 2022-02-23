@@ -3,7 +3,7 @@
 
  🌱Participando do Bootcamp Generation FullStack Java e do Programa Start (Porto Seguro - Digital House)<br>
  🤓Conhecimento em HTML, CSS, JavaScript e Node.js<br>
- 🎯Estudando Java
+ 🎯Estudando Java e C#
 
 
  <div>
