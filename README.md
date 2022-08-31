@@ -1,9 +1,9 @@
 ### Olá! Eu sou a Jessica Moraes 👋
  
 
- 🌱Participando do Bootcamp Generation FullStack Java e do Programa Start (Porto Seguro - Digital House)<br>
- 🤓Conhecimento em HTML, CSS, JavaScript e Node.js<br>
- 🎯Estudando Java e C#
+ 🌱Participando do Treinamento if black then code, oferecido pela Gama Academy em conjunto com a IBM.
+ 🤓Conhecimento em HTML, CSS, Java, JavaScript, TypeScript, ReactJS, Angular, .Net e Node.js<br>
+ 🎯Estudando Spring e DevOps
 
 
  <div>
@@ -20,6 +20,7 @@
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="HTML" height="30" width="40" src="https://www.flaticon.com/br/icone-gratis/java_226777?term=java&page=1&position=2&page=1&position=2&related_id=226777&origin=tag#">
 </div>
   
   ##
