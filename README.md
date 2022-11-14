@@ -1,9 +1,7 @@
 ### Olá! Eu sou a Jessica Moraes 👋
  
-
- 🌱Participando do Treinamento if black then code, oferecido pela Gama Academy em conjunto com a IBM.
- 🤓Conhecimento em HTML, CSS, Java, JavaScript, TypeScript, ReactJS, Angular, .Net e Node.js<br>
- 🎯Estudando Spring e DevOps
+ 🤓Conhecimento em HTML, CSS, Java, JavaScript, TypeScript, ReactJS, Angular<br>
+ 🎯Estudando Docker e Node JS
 
 
  <div>
